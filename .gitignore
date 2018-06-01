@@ -1,3 +1,13 @@
 
 lab1/lab1/__pycache__/
 lab2/lab2/__pycache__/
+project/project_solution/naive_features/__pycache__/
+
+project/project_solution/*/*.txt
+*.pyc
+project/project_solution/shuning/
+project/project_solution/naive_features/main_1.out
+project/project_solution/naive_features_multiple_values/main.out
+project/project_solution/naive_features/main.out
+project/project_solution/svd_word2vec/main.out
+project/project_solution/TFIDF/report.docx
